@@ -10,7 +10,7 @@ A comprehensive and feature-rich frontend simulation of an enterprise-level proj
 
 | Dashboard (Desktop) | Kanban Board |
 | :---: | :---: |
-| ![Dashboard](./screenshots/dashboard.png) | ![Kanban Board](./screenshots/kanban.png) |
+| ![Dashboard](./screenshots/Dashboard.png) | ![Kanban Board](./screenshots/kanban.png) |
 
 | Projects Page | Sign In page |
 | :---: | :---: |
