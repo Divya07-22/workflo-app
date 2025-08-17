@@ -103,27 +103,28 @@ This project leverages a modern and powerful stack to deliver a high-quality use
 
 ## 🚀 How to Run Locally
 
-1.  Clone the repository:
-    bash
+1.  **Clone the repository:**
+    ```bash
     git clone [https://github.com/your-username/workflo-app.git](https://github.com/your-username/workflo-app.git)
-    
+    ```
 
-2.  Navigate to the project directory:
-    bash
+2.  **Navigate to the project directory:**
+    ```bash
     cd workflo-app
-    
+    ```
 
-3.  Install dependencies:
-    bash
+3.  **Install dependencies:**
+    ```bash
     npm install
-    
+    ```
 
-4.  Run the development server:
-    bash
+4.  **Run the development server:**
+    ```bash
     npm run dev
-    
-    The application will be available at http://localhost:5173.
+    ```
+    The application will be available at `http://localhost:5173`.
 
-5.  Run tests:
-    bash
-    npm test
+5.  **Run tests:**
+    ```bash
+    npm test
+    ````
