@@ -10,15 +10,15 @@ A comprehensive and feature-rich frontend simulation of an enterprise-level proj
 
 | Dashboard (Desktop) | Kanban Board |
 | :---: | :---: |
-| ![Dashboard](.enterprise-work-app/screenshots/Dashboard.png) | ![Kanban Board](.enterprise-work-app/screenshots/kanban.png) |
+| ![Dashboard](./enterprise-work-app/screenshots/Dashboard.png) | ![Kanban Board](./enterprise-work-app/screenshots/kanban.png) |
 
 | Projects Page | Sign In page |
 | :---: | :---: |
-| ![Projects Page](.enterprise-work-app/screenshots/projects.png) | ![Sign In Page](.enterprise-work-app/screenshots/signin.png)
+| ![Projects Page](./enterprise-work-app/screenshots/projects.png) | ![Sign In Page](./enterprise-work-app/screenshots/signin.png)
 
 | Sign Up Page | Reports & Analytics |
 | :---: | :---: |
-| ![Sign Up page](.enterprise-work-app/screenshots/signup.png) | ![Reports Page](.enterprise-work-app/screenshots/reports.png) |
+| ![Sign Up page](./enterprise-work-app/screenshots/signup.png) | ![Reports Page](./enterprise-work-app/screenshots/reports.png) |
 
 ---
 
