@@ -1,0 +1,20 @@
+[
+  {
+    "id": "proj-1",
+    "name": "E-commerce Platform",
+    "description": "Build a scalable e-commerce platform with React and Redux.",
+    "status": "In Progress"
+  },
+  {
+    "id": "proj-2",
+    "name": "Mobile App V2",
+    "description": "Develop the second version of the flagship mobile application.",
+    "status": "Planning"
+  },
+  {
+    "id": "proj-3",
+    "name": "Data Analytics Dashboard",
+    "description": "Create a new data analytics dashboard for business intelligence.",
+    "status": "Completed"
+  }
+]

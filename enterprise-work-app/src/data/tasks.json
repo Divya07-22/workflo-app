@@ -1,0 +1,57 @@
+[
+  {
+    "id": "task-1",
+    "title": "Design the new login page",
+    "description": "Create a modern and responsive login page design.",
+    "status": "To Do",
+    "priority": "High",
+    "type": "Feature",
+    "assignee": "Alice Employee",
+    "dueDate": "2025-08-20T00:00:00.000Z",
+    "projectId": "proj-1"
+  },
+  {
+    "id": "task-2",
+    "title": "Fix the checkout button bug",
+    "description": "The checkout button is not working on Safari.",
+    "status": "In Progress",
+    "priority": "High",
+    "type": "Bug",
+    "assignee": "Bob Employee",
+    "dueDate": "2025-08-18T00:00:00.000Z",
+    "projectId": "proj-1"
+  },
+  {
+    "id": "task-3",
+    "title": "Implement the new API endpoint for V2",
+    "description": "Integrate the new user data API endpoint.",
+    "status": "In Progress",
+    "priority": "Medium",
+    "type": "Feature",
+    "assignee": "Alice Employee",
+    "dueDate": "2025-08-22T00:00:00.000Z",
+    "projectId": "proj-2"
+  },
+  {
+    "id": "task-4",
+    "title": "Deploy analytics to production",
+    "description": "Complete the final deployment checklist and push to production.",
+    "status": "Done",
+    "priority": "Low",
+    "type": "Improvement",
+    "assignee": "Manager Dave",
+    "dueDate": "2025-08-15T00:00:00.000Z",
+    "projectId": "proj-3"
+  },
+  {
+    "id": "task-5",
+    "title": "Develop mobile push notifications",
+    "description": "Add push notification capabilities to the mobile app.",
+    "status": "To Do",
+    "priority": "High",
+    "type": "Feature",
+    "assignee": "Bob Employee",
+    "dueDate": "2025-09-01T00:00:00.000Z",
+    "projectId": "proj-2"
+  }
+]
